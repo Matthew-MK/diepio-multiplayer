@@ -11,6 +11,9 @@
     "socket.io": "latest"
   },
   "devDependencies": {},
+  "scripts": {
+        "start": "cd src && node server.js"
+    },
   "author": "SharkFin Productions",
   "license": "ISC"
 }
